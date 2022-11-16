@@ -1,0 +1,217 @@
+@charset "ISO-8859-1";
+
+body{
+	background-image:url("background (2).png");
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:top;
+	font-family: Georgia, serif;
+
+	
+}
+h1{
+	color: #00092C;
+	text-align:center;
+	padding-top:2%;
+}
+h2{
+	
+	color:white;
+	text-align:center;
+	font-size:60px;
+	
+}
+h3{
+	color: #00092C;
+	text-align:center;
+	font-size:35px;
+}
+h4{
+	color:black;
+	text-align:left;
+	background-color:#FFF9CA;
+	width:25%;
+	padding: 0 0 1% 5%;
+	margin-left:35%;
+	opacity:0.9;
+}
+#index_id{
+	background-color:#FFFAD7;
+	margin-top:2%;
+	text-align:center;
+	font-size:25px;	
+	padding:1% 8% 1% 8%;
+	
+}
+#index_id:hover{
+	background-color:#E38B29;
+	color:white;
+	
+}
+
+.btn{
+	text-align:center;
+}
+
+.box{
+	margin : 5% 15%;
+		
+}
+
+div.box{
+	background-color:#FFF9CA; 
+	opacity:0.8;
+	
+}
+
+#openact_id{
+	font-size:20px;
+	padding:1% 2%;
+}
+#type1{
+	margin-left:35%;
+}
+#type2{
+	margin-left:5% ;
+}
+#name{
+	margin-left : 7.7%;
+}
+#bdate{
+	margin-left : 14%;
+}
+#drnumber{
+	margin-left : 0%;
+}
+#pin{
+	margin-left : 11.5%;
+}
+input[type=text]{
+	font-size:20px;
+	width:45%;
+	padding:0.8% 1%;
+	font-family: Georgia, serif;
+	text-align:left;
+}
+
+#btn_open{
+	margin:3% 25%;
+	padding:1% 20%;
+	font-size:20px;
+	background-color:#FFFAD7;
+	font-family: Georgia, serif;
+}
+#btn_open:hover{
+	color:white;
+	background-color:#E38B29;
+}
+#btn_que{
+	text-align:center;
+	padding:0.5% 10%;
+	font-size:20px;
+	background-color:#FFFAD7;
+	font-family: Georgia, serif;
+}
+#btn_que:hover{
+	color:white;
+	background-color:#E38B29;
+}
+#submit_btn{
+	text-align:center;
+	padding:2% 18.5%;
+	font-size:20px;
+	background-color:#FFFAD7;
+	font-family: Georgia, serif;
+}
+#submit_btn:hover{
+	color:white;
+	background-color:#E38B29;
+}
+.btn_deposit,.btn_wdr{
+	text-align:center;
+	padding:1% 10%;
+	font-size:20px;
+	background-color:#FFFAD7;
+	font-family: Georgia, serif;
+}
+.btn_deposit:hover,.btn_wdr:hover{
+	color:white;
+	background-color:#E38B29;
+}
+.btn_home{
+	text-align:center;
+	padding:1% 10%;
+	font-size:20px;
+	background-color:#FFFAD7;
+	font-family: Georgia, serif;
+}
+.btn_home:hover{
+	color:white;
+	background-color:#E38B29;
+}
+input[type=number]{
+	font-size:20px;
+	padding:0.8% 1%;
+	width:45%;
+}
+input[type=date]{
+	font-size:20px;
+	padding:0.8% 1%;
+	width:45%;
+}
+
+p{
+	font-size:20px;
+	font-family: Georgia, serif;
+}
+.que{
+	font-size: 20px;
+	padding: 0.8%  1%;
+	font-family: Georgia, serif;
+}
+#ans{
+	width:30%;
+}
+.ref{
+	margin:0 38%;
+	color:#100720;
+}
+.ref:hover{
+	color:#CD104D;
+}
+.box1{
+	margin : 5% 20%;
+}
+#act_id{
+	padding:5% 8% 5% 33%;	
+}
+#sque{
+	text-align:center;
+	color: red;
+}
+
+#deposit_id{
+	text-align:center;	
+}
+#withdraw_id{
+	text-align:center;
+}
+
+.action{
+	margin:1%;
+	padding:0.5% 10%;
+	font-size:20px;
+	background-color:#FFFAD7;
+	font-family: Georgia, serif;
+	text-align:center;	
+}
+.action:hover{
+	color:white;
+	background-color:#E38B29;
+}
+#action{
+	text-align:center;
+	
+	
+}
+
